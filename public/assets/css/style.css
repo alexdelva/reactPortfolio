@@ -1,0 +1,41 @@
+.profilePicture {
+height: 300px;
+width: 200px;
+
+}
+
+.box {
+border-color: black;
+border-radius: 20px;
+
+    
+}
+
+.mainMenu li {
+    display: block;
+    float: right;
+    padding: 5px;
+    margin: 10px;
+    font-size: 20px;
+    border-bottom: 2px solid;
+    border-bottom-color: green;
+}
+
+.websitePic {
+    height: 300px;
+    width: 600px;
+}
+
+#website-refactor {
+  border: 2px solid green;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+}
+
+.contactinfo {
+  display: flex;
+  justify-content: space-between;
+  
+
+}
